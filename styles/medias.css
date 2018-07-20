@@ -1,0 +1,10 @@
+@media (max-width: 600px) {
+    .is-middle {
+        top: 40%;
+    }
+    
+    .nav-items-container {
+        opacity: 0;
+    }
+}
+

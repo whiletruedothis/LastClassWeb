@@ -1,0 +1,16 @@
+.fa-cloud {
+    color: white;
+    font-size: 35px !important;
+    opacity: 0;
+    margin: 10px;
+    right: 0;
+    position: absolute;
+
+}
+
+@media (max-width: 600px) {
+    .fa-cloud {
+    
+        opacity: 1 !important;
+    }
+}

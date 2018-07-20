@@ -1,0 +1,17 @@
+@keyframes demo1 {
+    0% {
+        border-radius: 50%;
+    }
+    40% {
+        border-radius: 40%;
+    }
+    60% {
+        border-radius: 30%;
+    }
+    80% {
+        border-radius: 10%;
+    }
+    100% {
+        border-radius: 0;
+    }
+}
